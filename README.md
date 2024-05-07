@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://raw.githubusercontent.com/nikkizol/nikkizol/master/git%20black%20and%20white.jpg" alt="banner that says NIKITA ZHOLKOVSKYI - On the way of becoming Full-stack developer!">
 
-- 🐼 Full-stack developer at PandaPanda
+🐼 Full-stack developer at PandaPanda
 
 ### Social Media:
 
